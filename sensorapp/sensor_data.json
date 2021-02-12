@@ -1,0 +1,29 @@
+{"sensor_data":
+[
+    {
+        "reading": 20.0,
+        "sensor_type": "temperature",
+        "reading_date": "2020-09-10"
+    },
+    {
+        "reading": 15.0,
+        "sensor_type": "temperature",
+        "reading_date": "2020-09-11"
+    },
+    {
+        "reading": 10.0,
+        "sensor_type": "temperature",
+        "reading_date": "2020-09-12"
+    },
+    {
+        "reading": 25.0,
+        "sensor_type": "temperature",
+        "reading_date": "2020-09-13"
+    },
+    {
+        "reading": 26.0,
+        "sensor_type": "temperature",
+        "reading_date": "2020-09-14"
+    }
+
+]}
